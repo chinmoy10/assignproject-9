@@ -6,37 +6,73 @@ const Navbar = () => {
     <>
       <li>
         <NavLink
-            to={`/`}
+          to={`/`}
           className={({ isActive }) =>
-            `font-bold ${isActive ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none" : "text-[#042e4581] hover:bg-inherit"}`
+            `font-bold ${
+              isActive
+                ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none"
+                : "text-[#042e4581] hover:bg-inherit"
+            }`
           }
         >
           Home
         </NavLink>
       </li>
       <li>
-        <NavLink to={`/learning`}
+        <NavLink
+          to={`/learning`}
           className={({ isActive }) =>
-            `font-bold ${isActive ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none" : "text-[#042e4581] hover:bg-inherit"}`
-          }>Start-Learning</NavLink>
+            `font-bold ${
+              isActive
+                ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none"
+                : "text-[#042e4581] hover:bg-inherit"
+            }`
+          }
+        >
+          Start-Learning
+        </NavLink>
       </li>
       <li>
-        <NavLink to={`/tutorials`}
+        <NavLink
+          to={`/tutorials`}
           className={({ isActive }) =>
-            `font-bold ${isActive ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none" : "text-[#042e4581] hover:bg-inherit"}`
-          }>Tutorials</NavLink>
+            `font-bold ${
+              isActive
+                ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none"
+                : "text-[#042e4581] hover:bg-inherit"
+            }`
+          }
+        >
+          Tutorials
+        </NavLink>
       </li>
       <li>
-        <NavLink to={`/about`}
+        <NavLink
+          to={`/about`}
           className={({ isActive }) =>
-            `font-bold ${isActive ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none" : "text-[#042e4581] hover:bg-inherit"}`
-          }>About Us</NavLink>
+            `font-bold ${
+              isActive
+                ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none"
+                : "text-[#042e4581] hover:bg-inherit"
+            }`
+          }
+        >
+          About Us
+        </NavLink>
       </li>
       <li>
-        <NavLink to={`/profile`}
+        <NavLink
+          to={`/profile`}
           className={({ isActive }) =>
-            `font-bold ${isActive ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none" : "text-[#042e4581] hover:bg-inherit"}`
-          }>Profile</NavLink>
+            `font-bold ${
+              isActive
+                ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none"
+                : "text-[#042e4581] hover:bg-inherit"
+            }`
+          }
+        >
+          Profile
+        </NavLink>
       </li>
     </>
   );
@@ -44,8 +80,8 @@ const Navbar = () => {
   return (
     <>
       <div>
-        <div className="navbar bg-base-100">
-          <div className="navbar-start">
+        <div className="navbar flex-col md:flex-row gap-5 md:gap-0 bg-base-100">
+          <div className="navbar-start w-full md:w-[50%]">
             <div className="dropdown">
               <div
                 tabIndex={0}
@@ -74,15 +110,19 @@ const Navbar = () => {
                 {NavLinks}
               </ul>
             </div>
-            <div className="w-[100px]">
-              <img className="w-full" src={logo} alt="" />
+            <div className="flex justify-center items-center">
+              <div className="w-[100px]">
+                <img className="w-full" src={logo} alt="" />
+              </div>
             </div>
           </div>
           <div className="navbar-center hidden lg:flex">
-            <ul className="menu menu-horizontal px-1">{NavLinks}</ul>
+            <ul className="menu menu-horizontal px-1 gap-2">{NavLinks}</ul>
           </div>
-          <div className="navbar-end">
-            <a className="btn text-white text-lg font-normal bg-[#042E45]">Login</a>
+          <div className="navbar-end w-full md:w-[50%] mx-auto">
+            <a className="btn w-full md:w-1/2 lg:w-1/4 text-white text-lg font-normal bg-[#042E45]">
+              Login
+            </a>
           </div>
         </div>
       </div>
