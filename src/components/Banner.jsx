@@ -4,7 +4,7 @@ import { IoIosRadioButtonOn } from "react-icons/io";
 const Banner = () => {
   return (
     <>
-      <div className="carousel w-full">
+      <div className="carousel w-full relative">
         <div id="item1" className="carousel-item w-full">
           <div
             className="w-full"
@@ -37,7 +37,7 @@ const Banner = () => {
                   <FaArrowDown size={25} />
                 </div>
                 <h1 className="text-5xl font-bold text-white">
-                  Hello Welcome Everyone,
+                  Hello, Welcome Everyone
                 </h1>
               </div>
             </div>
@@ -48,7 +48,7 @@ const Banner = () => {
             className="w-full"
             style={{
               backgroundImage:
-                "url(https://i.ibb.co/nNGvDXJh/chinese.jpg)",
+                "url(https://i.ibb.co/h1xtxNZz/chinese.jpg)",
                 backgroundRepeat: "no-repeat",
                 backgroundPosition: "center",
             }}
@@ -75,59 +75,18 @@ const Banner = () => {
                   <FaArrowDown size={25} />
                 </div>
                 <h1 className="text-5xl font-bold text-white">
-                  Hello Welcome Everyone,
-                </h1>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div id="item3" className="carousel-item w-full">
-          <div
-            className="w-full"
-            style={{
-              backgroundImage:
-                "url(https://i.ibb.co/tPzdWvW1/japanese.jpg)",
-                backgroundRepeat: "no-repeat",
-                backgroundPosition: "center",
-            }}
-          >
-            <div className="flex flex-col md:flex-row items-center justify-evenly gap-10 md:gap-0 min-h-full bg-yellow-600/80 p-10 md:py-24">
-              <div className="space-y-5">
-                <h1 className="text-[#E7F2AB] font-black text-5xl">
-                  German Language
-                </h1>
-                <p className="text-white font-extralight text-lg">
-                  Creative concept of foreign language education
-                  <br />
-                  German language learning.
-                </p>
-                <button className="btn text-red-500 bg-[#042E45] text-base text-light shadow-none border-none">
-                  Read More
-                </button>
-              </div>
-              <div className="text-center space-y-3">
-                <h1 className="text-5xl font-bold text-white">
-                  Hallo, alle willkommen
-                </h1>
-                <div className="w-full flex justify-center text-red-700">
-                  <FaArrowDown size={25} />
-                </div>
-                <h1 className="text-5xl font-bold text-white">
-                  Hello Welcome Everyone,
+                  Hello, Welcome Everyone
                 </h1>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div className="flex w-full justify-center gap-2 py-2">
-        <a href="#item1" className="text-gray-500">
+      <div className="flex w-full justify-center gap-2 py-2 absolute -translate-y-9">
+        <a href="#item1" className="text-gray-50">
             <IoIosRadioButtonOn size={20} />
         </a>
-        <a href="#item2" className="text-gray-500">
-            <IoIosRadioButtonOn size={20} />
-        </a>
-        <a href="#item3" className="text-gray-500">
+        <a href="#item2" className="text-gray-50">
             <IoIosRadioButtonOn size={20} />
         </a>
       </div>
