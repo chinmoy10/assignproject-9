@@ -1,10 +1,12 @@
 [
   {
     "id": 1,
-    "category_name": "JP"
+    "category": "JP",
+    "category_name": "Japanese"
   },
   {
     "id": 2,
-    "category_name": "CN"
+    "category": "CN",
+    "category_name": "Chinese"
   }
 ]
