@@ -34,6 +34,7 @@ const router = createBrowserRouter([
       {
         path: "/tutorials",
         element: <Tutorials></Tutorials>,
+        loader: () => fetch("../embeddedVideo.json"),
       },
       {
         path: "/about",

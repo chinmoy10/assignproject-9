@@ -1,7 +1,9 @@
 import { FaArrowDown } from "react-icons/fa";
 import { IoIosRadioButtonOn } from "react-icons/io";
+import { useNavigate } from "react-router-dom";
 
 const Banner = () => {
+  const navigate = useNavigate();
   return (
     <>
       <div className="carousel w-full relative">
@@ -25,7 +27,7 @@ const Banner = () => {
                   <br />
                   Japanese language learning.
                 </p>
-                <button className="btn text-red-500 bg-[#042E45] text-base text-light shadow-none border-none">
+                <button onClick={()=> navigate('/learning/JP')} className="btn text-red-500 bg-[#042E45] text-base text-light shadow-none border-none">
                   Read More
                 </button>
               </div>
@@ -63,7 +65,7 @@ const Banner = () => {
                   <br />
                   Chinese language learning.
                 </p>
-                <button className="btn text-red-500 bg-[#042E45] text-base text-light shadow-none border-none">
+                <button onClick={()=> navigate('/learning/CN')} className="btn text-red-500 bg-[#042E45] text-base text-light shadow-none border-none">
                   Read More
                 </button>
               </div>

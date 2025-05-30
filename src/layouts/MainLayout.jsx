@@ -9,10 +9,10 @@ const MainLayout = () => {
         <header className="w-[97%] mx-auto py-3">
             <Navbar></Navbar>
         </header>
-        <main className="min-h-[calc(100vh-295px)] md:mx-auto">
+        <main className="min-h-[calc(100vh-295px)] md:mx-auto mb-10">
           <Outlet></Outlet>
         </main>
-        <footer className="mt-14">
+        <footer>
             <Footer></Footer>
         </footer>
       </div>
