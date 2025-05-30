@@ -21,7 +21,7 @@ const router = createBrowserRouter([
         element: <Learning></Learning>,
         children: [
           {
-            path: "/learning",
+            path: "",
             element: <Navigate to={"/learning/JP"}></Navigate>
           },
           {

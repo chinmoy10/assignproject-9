@@ -26,6 +26,7 @@ const VocabCategories = () => {
           >
             {category.category_name}
           </NavLink>
+          
         ))}
       </div>
     </div>
