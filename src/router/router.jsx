@@ -15,21 +15,21 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+        },
+      {
+        path: "/learning",
+        element: <Learning></Learning>,
         children: [
           {
-            path: "",
-            element: <Navigate to={"/category/JP"}></Navigate>,
+            path: "/learning",
+            element: <Navigate to={"/learning/JP"}></Navigate>
           },
           {
-            path: "/category/:category",
+            path: "/learning/:category",
             element: <Lessons></Lessons>,
             loader: () => fetch("../lesson.json"),
           },
         ],
-      },
-      {
-        path: "/learning",
-        element: <Learning></Learning>,
       },
       {
         path: "/tutorials",
