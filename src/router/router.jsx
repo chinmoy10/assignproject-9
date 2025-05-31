@@ -6,6 +6,7 @@ import Tutorials from "../pages/Tutorials";
 import About from "../pages/About";
 import Profile from "../pages/Profile";
 import Lessons from "../components/Lessons";
+import SingleLesson from "../pages/SingleLesson";
 
 const router = createBrowserRouter([
   {
@@ -15,14 +16,14 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
-        },
+      },
       {
         path: "/learning",
         element: <Learning></Learning>,
         children: [
           {
             path: "",
-            element: <Navigate to={"/learning/JP"}></Navigate>
+            element: <Navigate to={"/learning/JP"}></Navigate>,
           },
           {
             path: "/learning/:category",
@@ -30,6 +31,11 @@ const router = createBrowserRouter([
             loader: () => fetch("../lesson.json"),
           },
         ],
+      },
+      {
+        path: "/lesson/:lesson_no",
+        element: <SingleLesson></SingleLesson>,
+        loader: () => fetch("../allWordsData.json"),
       },
       {
         path: "/tutorials",
