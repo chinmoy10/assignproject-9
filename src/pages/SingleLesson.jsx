@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
-import { useLoaderData, useParams } from "react-router-dom";
+import { useLoaderData, useNavigate, useParams } from "react-router-dom";
 import WordDetails from "../components/WordDetails";
+import { FaArrowRight } from "react-icons/fa";
 
 const SingleLesson = () => {
+  const navigate = useNavigate();
   const wordData = useLoaderData();
-//   console.log(wordData);
+  //   console.log(wordData);
   const { lesson_no } = useParams();
   // console.log(lesson_no);
 
@@ -28,13 +30,33 @@ const SingleLesson = () => {
           <div className="hero-content text-center">
             <div className="py-16">
               <h1 className="text-5xl font-bold text-white">
-                Lesson<span className="text-lg font-medium text-red-400">({lesson_no.slice(0, 2)})</span>- {lesson_no.slice(2, 3)}
+                Lesson
+                <span className="text-lg font-medium text-red-400">
+                  ({lesson_no.slice(0, 2)})
+                </span>
+                - {lesson_no.slice(2, 4)}
               </h1>
             </div>
           </div>
         </div>
       </section>
-      {lessonWords.map((lessonWord) => <WordDetails key={lessonWord.id} lessonWord={lessonWord}></WordDetails> )}
+      <section className="w-10/12 mx-auto mt-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
+          {lessonWords &&
+            lessonWords.map((lessonWord) => (
+              <WordDetails
+                key={lessonWord.id}
+                lessonWord={lessonWord}
+              ></WordDetails>
+            ))}
+        </div>
+        <button
+          className="btn bg-[#042E45]/80 border-none shadow-none text-red-500 text-lg mt-10"
+          onClick={() => navigate("/learning")}
+        >
+          Back to Lesson <FaArrowRight />
+        </button>
+      </section>
     </div>
   );
 };

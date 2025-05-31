@@ -8,7 +8,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Used to express gratitude in informal settings.",
-    "example": "ありがとう、手伝ってくれて！ (arigatou, tetsudatte kurete!) - Thank you for helping me!"
+    "example": "ありがとう、手伝ってくれて！ (arigatou, tetsudatte kurete!) - Thank you for helping me!",
+    "language": "JP"
   },
   {
     "id": "word002",
@@ -19,7 +20,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Standard greeting during the day.",
-    "example": "こんにちは、お元気ですか？ (konnichiwa, ogenki desu ka?) - Hello, how are you?"
+    "example": "こんにちは、お元気ですか？ (konnichiwa, ogenki desu ka?) - Hello, how are you?",
+    "language": "JP"
   },
   {
     "id": "word003",
@@ -30,7 +32,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Used to apologize, get attention, or ask for a favor.",
-    "example": "すみません、道を聞いてもいいですか？ (sumimasen, michi o kiitemo ii desu ka?) - Excuse me, may I ask for directions?"
+    "example": "すみません、道を聞いてもいいですか？ (sumimasen, michi o kiitemo ii desu ka?) - Excuse me, may I ask for directions?",
+    "language": "JP"
   },
   {
     "id": "word004",
@@ -41,7 +44,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Affirmative response.",
-    "example": "はい、そうです。(hai, sou desu.) - Yes, that's right."
+    "example": "はい、そうです。(hai, sou desu.) - Yes, that's right.",
+    "language": "JP"
   },
   {
     "id": "word005",
@@ -52,7 +56,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Negative response.",
-    "example": "いいえ、違います。(iie, chigaimasu.) - No, that's wrong."
+    "example": "いいえ、違います。(iie, chigaimasu.) - No, that's wrong.",
+    "language": "JP"
   },
   {
     "id": "word006",
@@ -63,7 +68,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Used when parting ways in the evening or before going to bed.",
-    "example": "おやすみなさい、また明日！ (oyasuminasai, mata ashita!) - Good night, see you tomorrow!"
+    "example": "おやすみなさい、また明日！ (oyasuminasai, mata ashita!) - Good night, see you tomorrow!",
+    "language": "JP"
   },
   {
     "id": "word007",
@@ -74,7 +80,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Said before eating a meal.",
-    "example": "いただきます！ (itadakimasu!) - Let's eat!"
+    "example": "いただきます！ (itadakimasu!) - Let's eat!",
+    "language": "JP"
   },
   {
     "id": "word008",
@@ -85,7 +92,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Said after finishing a meal.",
-    "example": "ごちそうさまでした！ (gochisousama deshita!) - Thank you for the delicious meal!"
+    "example": "ごちそうさまでした！ (gochisousama deshita!) - Thank you for the delicious meal!",
+    "language": "JP"
   },
   {
     "id": "word009",
@@ -96,7 +104,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "General farewell.",
-    "example": "さようなら、また会いましょう。(sayounara, mata aimashou.) - Goodbye, let's meet again."
+    "example": "さようなら、また会いましょう。(sayounara, mata aimashou.) - Goodbye, let's meet again.",
+    "language": "JP"
   },
   {
     "id": "word010",
@@ -107,7 +116,8 @@
     "difficulty": "easy",
     "lesson_no": "JP1",
     "when_to_say": "Used when making a request or asking for a favor.",
-    "example": "これをお願いします。(kore o onegaishimasu.) - Please, I'll have this."
+    "example": "これをお願いします。(kore o onegaishimasu.) - Please, I'll have this.",
+    "language": "JP"
   },
   {
     "id": "word011",
@@ -118,7 +128,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used to describe the act of consuming food.",
-    "example": "ご飯を食べる。(gohan o taberu.) - To eat rice."
+    "example": "ご飯を食べる。(gohan o taberu.) - To eat rice.",
+    "language": "JP"
   },
   {
     "id": "word012",
@@ -129,7 +140,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used to describe the act of consuming beverages.",
-    "example": "水を飲む。(mizu o nomu.) - To drink water."
+    "example": "水を飲む。(mizu o nomu.) - To drink water.",
+    "language": "JP"
   },
   {
     "id": "word013",
@@ -140,7 +152,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used to describe movement to a place.",
-    "example": "学校に行く。(gakkou ni iku.) - To go to school."
+    "example": "学校に行く。(gakkou ni iku.) - To go to school.",
+    "language": "JP"
   },
   {
     "id": "word014",
@@ -151,7 +164,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used to describe movement towards the speaker.",
-    "example": "家に帰る。(ie ni kaeru.) - To come home."
+    "example": "家に帰る。(ie ni kaeru.) - To come home.",
+    "language": "JP"
   },
   {
     "id": "word015",
@@ -162,7 +176,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used to describe the act of perceiving with eyes.",
-    "example": "映画を見る。(eiga o miru.) - To watch a movie."
+    "example": "映画を見る。(eiga o miru.) - To watch a movie.",
+    "language": "JP"
   },
   {
     "id": "word016",
@@ -173,7 +188,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used for hearing sounds or asking questions.",
-    "example": "音楽を聞く。(ongaku o kiku.) - To listen to music."
+    "example": "音楽を聞く。(ongaku o kiku.) - To listen to music.",
+    "language": "JP"
   },
   {
     "id": "word017",
@@ -184,7 +200,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used for verbal communication.",
-    "example": "日本語を話す。(nihongo o hanasu.) - To speak Japanese."
+    "example": "日本語を話す。(nihongo o hanasu.) - To speak Japanese.",
+    "language": "JP"
   },
   {
     "id": "word018",
@@ -195,7 +212,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used for understanding written text.",
-    "example": "本を読む。(hon o yomu.) - To read a book."
+    "example": "本を読む。(hon o yomu.) - To read a book.",
+    "language": "JP"
   },
   {
     "id": "word019",
@@ -206,7 +224,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used for producing written content.",
-    "example": "手紙を書く。(tegami o kaku.) - To write a letter."
+    "example": "手紙を書く。(tegami o kaku.) - To write a letter.",
+    "language": "JP"
   },
   {
     "id": "word020",
@@ -217,7 +236,8 @@
     "difficulty": "easy",
     "lesson_no": "JP2",
     "when_to_say": "Used for purchasing items.",
-    "example": "服を買う。(fuku o kau.) - To buy clothes."
+    "example": "服を買う。(fuku o kau.) - To buy clothes.",
+    "language": "JP"
   },
   {
     "id": "word021",
@@ -228,7 +248,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to someone who studies.",
-    "example": "彼は大学生です。(kare wa daigakusei desu.) - He is a university student."
+    "example": "彼は大学生です。(kare wa daigakusei desu.) - He is a university student.",
+    "language": "JP"
   },
   {
     "id": "word022",
@@ -239,7 +260,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a teacher or master.",
-    "example": "田中先生は優しいです。(Tanaka sensei wa yasashii desu.) - Mr. Tanaka is kind."
+    "example": "田中先生は優しいです。(Tanaka sensei wa yasashii desu.) - Mr. Tanaka is kind.",
+    "language": "JP"
   },
   {
     "id": "id024",
@@ -250,7 +272,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a medical professional.",
-    "example": "彼女は医者になりたい。(kanojo wa isha ni naritai.) - She wants to become a doctor."
+    "example": "彼女は医者になりたい。(kanojo wa isha ni naritai.) - She wants to become a doctor.",
+    "language": "JP"
   },
   {
     "id": "word023",
@@ -261,7 +284,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to someone working for a company.",
-    "example": "私の父は会社員です。(watashi no chichi wa kaishain desu.) - My father is a company employee."
+    "example": "私の父は会社員です。(watashi no chichi wa kaishain desu.) - My father is a company employee.",
+    "language": "JP"
   },
   {
     "id": "word025",
@@ -272,7 +296,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a written or printed work.",
-    "example": "面白い本を読んだ。(omoshiroi hon o yonda.) - I read an interesting book."
+    "example": "面白い本を読んだ。(omoshiroi hon o yonda.) - I read an interesting book.",
+    "language": "JP"
   },
   {
     "id": "word026",
@@ -283,7 +308,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a writing instrument.",
-    "example": "ペンを貸してください。(pen o kashite kudasai.) - Please lend me a pen."
+    "example": "ペンを貸してください。(pen o kashite kudasai.) - Please lend me a pen.",
+    "language": "JP"
   },
   {
     "id": "word027",
@@ -294,7 +320,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a piece of furniture for working or studying.",
-    "example": "机の上に本がある。(tsukue no ue ni hon ga aru.) - There is a book on the desk."
+    "example": "机の上に本がある。(tsukue no ue ni hon ga aru.) - There is a book on the desk.",
+    "language": "JP"
   },
   {
     "id": "word028",
@@ -305,7 +332,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a seat with a back.",
-    "example": "椅子に座ってください。(isu ni suwatte kudasai.) - Please sit on the chair."
+    "example": "椅子に座ってください。(isu ni suwatte kudasai.) - Please sit on the chair.",
+    "language": "JP"
   },
   {
     "id": "word029",
@@ -316,7 +344,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a container for carrying items.",
-    "example": "カバンの中に何がありますか？(kaban no naka ni nani ga arimasu ka?) - What is in the bag?"
+    "example": "カバンの中に何がありますか？(kaban no naka ni nani ga arimasu ka?) - What is in the bag?",
+    "language": "JP"
   },
   {
     "id": "word030",
@@ -327,7 +356,8 @@
     "difficulty": "easy",
     "lesson_no": "JP3",
     "when_to_say": "Used to refer to a device for telling time.",
-    "example": "壁に時計がかかっている。(kabe ni tokei ga kakatte iru.) - A clock is hanging on the wall."
+    "example": "壁に時計がかかっている。(kabe ni tokei ga kakatte iru.) - A clock is hanging on the wall.",
+    "language": "JP"
   },
   {
     "id": "word031",
@@ -338,7 +368,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Refers to the current day.",
-    "example": "今日は晴れです。(kyou wa hare desu.) - It's sunny today."
+    "example": "今日は晴れです。(kyou wa hare desu.) - It's sunny today.",
+    "language": "JP"
   },
   {
     "id": "word032",
@@ -349,7 +380,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Refers to the day after today.",
-    "example": "明日は休みです。(ashita wa yasumi desu.) - Tomorrow is a holiday."
+    "example": "明日は休みです。(ashita wa yasumi desu.) - Tomorrow is a holiday.",
+    "language": "JP"
   },
   {
     "id": "word033",
@@ -360,7 +392,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Refers to the day before today.",
-    "example": "昨日は雨でした。(kinou wa ame deshita.) - It rained yesterday."
+    "example": "昨日は雨でした。(kinou wa ame deshita.) - It rained yesterday.",
+    "language": "JP"
   },
   {
     "id": "word034",
@@ -371,7 +404,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Used to refer to a period or point in time.",
-    "example": "時間は大切です。(jikan wa taisetsu desu.) - Time is important."
+    "example": "時間は大切です。(jikan wa taisetsu desu.) - Time is important.",
+    "language": "JP"
   },
   {
     "id": "word035",
@@ -382,7 +416,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Refers to the period from dawn to noon.",
-    "example": "毎朝、早く起きます。(maiasa, hayaku okimasu.) - I wake up early every morning."
+    "example": "毎朝、早く起きます。(maiasa, hayaku okimasu.) - I wake up early every morning.",
+    "language": "JP"
   },
   {
     "id": "word036",
@@ -393,7 +428,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Refers to the middle of the day.",
-    "example": "昼ご飯を食べましょう。(hirugohan o tabemashou.) - Let's eat lunch."
+    "example": "昼ご飯を食べましょう。(hirugohan o tabemashou.) - Let's eat lunch.",
+    "language": "JP"
   },
   {
     "id": "word037",
@@ -404,7 +440,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Refers to the latter part of the day.",
-    "example": "晩ご飯は何ですか？(bangohan wa nan desu ka?) - What's for dinner?"
+    "example": "晩ご飯は何ですか？(bangohan wa nan desu ka?) - What's for dinner?",
+    "language": "JP"
   },
   {
     "id": "word038",
@@ -415,7 +452,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Refers to a period of seven days.",
-    "example": "来週、旅行に行きます。(raishuu, ryokou ni ikimasu.) - I'm going on a trip next week."
+    "example": "来週、旅行に行きます。(raishuu, ryokou ni ikimasu.) - I'm going on a trip next week.",
+    "language": "JP"
   },
   {
     "id": "word039",
@@ -426,7 +464,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Used for calendar months or the celestial body.",
-    "example": "今月は忙しいです。(kongetsu wa isogashii desu.) - I'm busy this month."
+    "example": "今月は忙しいです。(kongetsu wa isogashii desu.) - I'm busy this month.",
+    "language": "JP"
   },
   {
     "id": "word040",
@@ -437,7 +476,8 @@
     "difficulty": "medium",
     "lesson_no": "JP4",
     "when_to_say": "Used for a period of 12 months.",
-    "example": "来年、日本に行きたいです。(rainen, Nihon ni ikitai desu.) - I want to go to Japan next year."
+    "example": "来年、日本に行きたいです。(rainen, Nihon ni ikitai desu.) - I want to go to Japan next year.",
+    "language": "JP"
   },
   {
     "id": "word041",
@@ -448,7 +488,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for a train or bus station.",
-    "example": "駅はどこですか？(eki wa doko desu ka?) - Where is the station?"
+    "example": "駅はどこですか？(eki wa doko desu ka?) - Where is the station?",
+    "language": "JP"
   },
   {
     "id": "word042",
@@ -459,7 +500,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for a medical facility.",
-    "example": "病院に行かなければなりません。(byouin ni ikanakereba narimasen.) - I have to go to the hospital."
+    "example": "病院に行かなければなりません。(byouin ni ikanakereba narimasen.) - I have to go to the hospital.",
+    "language": "JP"
   },
   {
     "id": "word043",
@@ -470,7 +512,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for a financial institution.",
-    "example": "銀行でお金を引き出す。(ginkou de okane o hikidasu.) - To withdraw money at the bank."
+    "example": "銀行でお金を引き出す。(ginkou de okane o hikidasu.) - To withdraw money at the bank.",
+    "language": "JP"
   },
   {
     "id": "word044",
@@ -481,7 +524,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for mailing letters and packages.",
-    "example": "郵便局で切手を買う。(yuubinkyoku de kitte o kau.) - To buy stamps at the post office."
+    "example": "郵便局で切手を買う。(yuubinkyoku de kitte o kau.) - To buy stamps at the post office.",
+    "language": "JP"
   },
   {
     "id": "word045",
@@ -492,7 +536,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for borrowing books.",
-    "example": "図書館で勉強します。(toshokan de benkyou shimasu.) - I study at the library."
+    "example": "図書館で勉強します。(toshokan de benkyou shimasu.) - I study at the library.",
+    "language": "JP"
   },
   {
     "id": "word046",
@@ -503,7 +548,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for buying groceries.",
-    "example": "スーパーで買い物をする。(suupaa de kaimono o suru.) - To shop at the supermarket."
+    "example": "スーパーで買い物をする。(suupaa de kaimono o suru.) - To shop at the supermarket.",
+    "language": "JP"
   },
   {
     "id": "word047",
@@ -514,7 +560,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for eating out.",
-    "example": "このレストランは美味しいです。(kono resutoran wa oishii desu.) - This restaurant is delicious."
+    "example": "このレストランは美味しいです。(kono resutoran wa oishii desu.) - This restaurant is delicious.",
+    "language": "JP"
   },
   {
     "id": "word048",
@@ -525,7 +572,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for recreation outdoors.",
-    "example": "公園で散歩する。(kouen de sanpo suru.) - To take a walk in the park."
+    "example": "公園で散歩する。(kouen de sanpo suru.) - To take a walk in the park.",
+    "language": "JP"
   },
   {
     "id": "word049",
@@ -536,7 +584,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for one's residence.",
-    "example": "家に帰ります。(ie ni kaerimasu.) - I'm going home."
+    "example": "家に帰ります。(ie ni kaerimasu.) - I'm going home.",
+    "language": "JP"
   },
   {
     "id": "word050",
@@ -547,7 +596,8 @@
     "difficulty": "medium",
     "lesson_no": "JP5",
     "when_to_say": "Used for a space within a building.",
-    "example": "私の部屋は広いです。(watashi no heya wa hiroi desu.) - My room is spacious."
+    "example": "私の部屋は広いです。(watashi no heya wa hiroi desu.) - My room is spacious.",
+    "language": "JP"
   },
   {
     "id": "word051",
@@ -558,7 +608,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Marks the subject of a sentence, especially with intransitive verbs or when introducing new information.",
-    "example": "猫がいます。(neko ga imasu.) - There is a cat."
+    "example": "猫がいます。(neko ga imasu.) - There is a cat.",
+    "language": "JP"
   },
   {
     "id": "word052",
@@ -569,7 +620,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Marks the direct object of a transitive verb.",
-    "example": "水を飲みます。(mizu o nomimasu.) - I drink water."
+    "example": "水を飲みます。(mizu o nomimasu.) - I drink water.",
+    "language": "JP"
   },
   {
     "id": "word053",
@@ -580,7 +632,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Indicates a specific location, destination, or time.",
-    "example": "学校に行きます。(gakkou ni ikimasu.) - I go to school."
+    "example": "学校に行きます。(gakkou ni ikimasu.) - I go to school.",
+    "language": "JP"
   },
   {
     "id": "word054",
@@ -591,7 +644,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Indicates where an action takes place or the means by which something is done.",
-    "example": "図書館で勉強します。(toshokan de benkyou shimasu.) - I study at the library."
+    "example": "図書館で勉強します。(toshokan de benkyou shimasu.) - I study at the library.",
+    "language": "JP"
   },
   {
     "id": "word055",
@@ -602,7 +656,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Connects nouns (and) or indicates who one is with.",
-    "example": "友達と映画を見ました。(tomodachi to eiga o mimashita.) - I watched a movie with a friend."
+    "example": "友達と映画を見ました。(tomodachi to eiga o mimashita.) - I watched a movie with a friend.",
+    "language": "JP"
   },
   {
     "id": "word056",
@@ -613,7 +668,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Indicates origin (place or time) or reason.",
-    "example": "日本から来ました。(Nihon kara kimashita.) - I came from Japan."
+    "example": "日本から来ました。(Nihon kara kimashita.) - I came from Japan.",
+    "language": "JP"
   },
   {
     "id": "word057",
@@ -624,7 +680,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Indicates a limit in time or space.",
-    "example": "東京まで行きます。(Toukyou made ikimasu.) - I'm going to Tokyo."
+    "example": "東京まで行きます。(Toukyou made ikimasu.) - I'm going to Tokyo.",
+    "language": "JP"
   },
   {
     "id": "word058",
@@ -635,7 +692,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Used to seek agreement or confirm information.",
-    "example": "このケーキ、美味しいですね。(kono keeki, oishii desu ne.) - This cake is delicious, isn't it?"
+    "example": "このケーキ、美味しいですね。(kono keeki, oishii desu ne.) - This cake is delicious, isn't it?",
+    "language": "JP"
   },
   {
     "id": "word059",
@@ -646,7 +704,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Used to convey new information or emphasize a statement.",
-    "example": "これは私の本ですよ。(kore wa watashi no hon desu yo.) - This is my book, you know."
+    "example": "これは私の本ですよ。(kore wa watashi no hon desu yo.) - This is my book, you know.",
+    "language": "JP"
   },
   {
     "id": "word060",
@@ -657,7 +716,8 @@
     "difficulty": "medium",
     "lesson_no": "JP6",
     "when_to_say": "Turns a statement into a question.",
-    "example": "これは何ですか？(kore wa nan desu ka?) - What is this?"
+    "example": "これは何ですか？(kore wa nan desu ka?) - What is this?",
+    "language": "JP"
   },
   {
     "id": "word061",
@@ -668,7 +728,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Used to acknowledge someone's effort, common in workplaces.",
-    "example": "今日の仕事、お疲れ様でした。(kyou no shigoto, otsukaresama deshita.) - Thank you for your hard work today."
+    "example": "今日の仕事、お疲れ様でした。(kyou no shigoto, otsukaresama deshita.) - Thank you for your hard work today.",
+    "language": "JP"
   },
   {
     "id": "word062",
@@ -679,7 +740,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Very polite way to apologize or ask for a favor, often used in business.",
-    "example": "恐れ入りますが、もう一度お願いします。(osoreirimasu ga, mou ichido onegaishimasu.) - Excuse me, but could you please repeat that?"
+    "example": "恐れ入りますが、もう一度お願いします。(osoreirimasu ga, mou ichido onegaishimasu.) - Excuse me, but could you please repeat that?",
+    "language": "JP"
   },
   {
     "id": "word063",
@@ -690,7 +752,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Highest level of apology, used in serious situations or formal business.",
-    "example": "ご迷惑をおかけし、誠に申し訳ございません。(gomeiwaku o okake shi, makoto ni moushiwake gozaimasen.) - I am truly sorry for the inconvenience caused."
+    "example": "ご迷惑をおかけし、誠に申し訳ございません。(gomeiwaku o okake shi, makoto ni moushiwake gozaimasen.) - I am truly sorry for the inconvenience caused.",
+    "language": "JP"
   },
   {
     "id": "word064",
@@ -701,7 +764,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Humble form of 'miru' (to look), used when looking at something belonging to a superior.",
-    "example": "資料を拝見させていただきます。(shiryou o haiken sasete itadakimasu.) - I will humbly look at the documents."
+    "example": "資料を拝見させていただきます。(shiryou o haiken sasete itadakimasu.) - I will humbly look at the documents.",
+    "language": "JP"
   },
   {
     "id": "word065",
@@ -712,7 +776,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Humble form of 'iku' (to go) or 'kuru' (to come), used when going/coming to a superior's place.",
-    "example": "明日、御社に参ります。(ashita, onsha ni mairimasu.) - I will humbly come to your company tomorrow."
+    "example": "明日、御社に参ります。(ashita, onsha ni mairimasu.) - I will humbly come to your company tomorrow.",
+    "language": "JP"
   },
   {
     "id": "word066",
@@ -723,7 +788,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Humble form of 'morau' (to receive), used when receiving something from a superior.",
-    "example": "お土産を頂戴しました。(omiyage o choudai shimashita.) - I humbly received a souvenir."
+    "example": "お土産を頂戴しました。(omiyage o choudai shimashita.) - I humbly received a souvenir.",
+    "language": "JP"
   },
   {
     "id": "word067",
@@ -734,7 +800,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Honorific form of 'iu' (to say), used when referring to a superior's words.",
-    "example": "社長がおっしゃいました。(shachou ga osshaimashita.) - The company president said."
+    "example": "社長がおっしゃいました。(shachou ga osshaimashita.) - The company president said.",
+    "language": "JP"
   },
   {
     "id": "word068",
@@ -745,7 +812,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Honorific form of 'miru' (to look), used when a superior looks at something.",
-    "example": "先生は新聞をご覧になります。(sensei wa shinbun o goran ni narimasu.) - The teacher reads the newspaper."
+    "example": "先生は新聞をご覧になります。(sensei wa shinbun o goran ni narimasu.) - The teacher reads the newspaper.",
+    "language": "JP"
   },
   {
     "id": "word069",
@@ -756,7 +824,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Honorific form of 'taberu' (to eat) or 'nomu' (to drink), used when a superior eats/drinks.",
-    "example": "お客様はコーヒーを召し上がりますか？(okyakusama wa koohii o meshiagarimasu ka?) - Would the customer like to drink coffee?"
+    "example": "お客様はコーヒーを召し上がりますか？(okyakusama wa koohii o meshiagarimasu ka?) - Would the customer like to drink coffee?",
+    "language": "JP"
   },
   {
     "id": "word070",
@@ -767,7 +836,8 @@
     "difficulty": "medium",
     "lesson_no": "JP7",
     "when_to_say": "Honorific form of 'suru' (to do), used when a superior does something.",
-    "example": "部長は何をなさいますか？(buchou wa nani o nasaimasu ka?) - What will the department head do?"
+    "example": "部長は何をなさいますか？(buchou wa nani o nasaimasu ka?) - What will the department head do?",
+    "language": "JP"
   },
   {
     "id": "word071",
@@ -778,7 +848,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used in academic or intellectual discussions.",
-    "example": "彼は哲学を専攻している。(kare wa tetsugaku o senkou shite iru.) - He majors in philosophy."
+    "example": "彼は哲学を専攻している。(kare wa tetsugaku o senkou shite iru.) - He majors in philosophy.",
+    "language": "JP"
   },
   {
     "id": "word072",
@@ -789,7 +860,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used to refer to an abstract idea.",
-    "example": "新しい概念を導入する。(atarashii gainen o donyuu suru.) - To introduce a new concept."
+    "example": "新しい概念を導入する。(atarashii gainen o donyuu suru.) - To introduce a new concept.",
+    "language": "JP"
   },
   {
     "id": "word073",
@@ -800,7 +872,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used to describe an observable fact or event.",
-    "example": "自然現象を研究する。(shizen genshou o kenkyuu suru.) - To research natural phenomena."
+    "example": "自然現象を研究する。(shizen genshou o kenkyuu suru.) - To research natural phenomena.",
+    "language": "JP"
   },
   {
     "id": "word074",
@@ -811,7 +884,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used to describe the arrangement of parts in a whole.",
-    "example": "建物の構造は複雑だ。(tatemono no kouzou wa fukuzatsu da.) - The building's structure is complex."
+    "example": "建物の構造は複雑だ。(tatemono no kouzou wa fukuzatsu da.) - The building's structure is complex.",
+    "language": "JP"
   },
   {
     "id": "word075",
@@ -822,7 +896,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used to describe the act of understanding or being aware of something.",
-    "example": "問題の認識が重要だ。(mondai no ninshiki ga juuyou da.) - Recognition of the problem is important."
+    "example": "問題の認識が重要だ。(mondai no ninshiki ga juuyou da.) - Recognition of the problem is important.",
+    "language": "JP"
   },
   {
     "id": "word076",
@@ -833,7 +908,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used in discussions about moral principles.",
-    "example": "企業の倫理観が問われている。(kigyou no rinrikan ga towarete iru.) - The ethics of the company are being questioned."
+    "example": "企業の倫理観が問われている。(kigyou no rinrikan ga towarete iru.) - The ethics of the company are being questioned.",
+    "language": "JP"
   },
   {
     "id": "word077",
@@ -844,7 +920,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used to describe something applicable everywhere or to everyone.",
-    "example": "これは普遍的な真理だ。(kore wa fuhenteki na shinri da.) - This is a universal truth."
+    "example": "これは普遍的な真理だ。(kore wa fuhenteki na shinri da.) - This is a universal truth.",
+    "language": "JP"
   },
   {
     "id": "word078",
@@ -855,7 +932,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used to describe something existing but not yet developed or manifest.",
-    "example": "潜在的なリスクを評価する。(senzaiteki na risuku o hyouka suru.) - To evaluate potential risks."
+    "example": "潜在的なリスクを評価する。(senzaiteki na risuku o hyouka suru.) - To evaluate potential risks.",
+    "language": "JP"
   },
   {
     "id": "word079",
@@ -866,7 +944,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used to describe the fundamental nature of something.",
-    "example": "問題の本質を理解する。(mondai no honshitsu o rikai suru.) - To understand the essence of the problem."
+    "example": "問題の本質を理解する。(mondai no honshitsu o rikai suru.) - To understand the essence of the problem.",
+    "language": "JP"
   },
   {
     "id": "word080",
@@ -877,7 +956,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP8",
     "when_to_say": "Used in academic or formal contexts for deep thought or analysis.",
-    "example": "この論文は深い考察に基づいている。(kono ronbun wa fukai kousatsu ni motozuite iru.) - This paper is based on deep consideration."
+    "example": "この論文は深い考察に基づいている。(kono ronbun wa fukai kousatsu ni motozuite iru.) - This paper is based on deep consideration.",
+    "language": "JP"
   },
   {
     "id": "word081",
@@ -888,7 +968,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Indicates completion of an action, sometimes with regret or unintended consequence.",
-    "example": "宿題を忘れてしまった。(shukudai o wasurete shimatta.) - I accidentally forgot my homework."
+    "example": "宿題を忘れてしまった。(shukudai o wasurete shimatta.) - I accidentally forgot my homework.",
+    "language": "JP"
   },
   {
     "id": "word082",
@@ -899,7 +980,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Indicates performing an action in preparation or leaving something in a certain state.",
-    "example": "晩ご飯を作っておく。(bangohan o tsukutte oku.) - I'll make dinner in advance."
+    "example": "晩ご飯を作っておく。(bangohan o tsukutte oku.) - I'll make dinner in advance.",
+    "language": "JP"
   },
   {
     "id": "word083",
@@ -910,7 +992,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Attached to a verb stem to indicate ease of action.",
-    "example": "この本は読みやすい。(kono hon wa yomiyasui.) - This book is easy to read."
+    "example": "この本は読みやすい。(kono hon wa yomiyasui.) - This book is easy to read.",
+    "language": "JP"
   },
   {
     "id": "word084",
@@ -921,7 +1004,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Attached to a verb stem to indicate difficulty of action.",
-    "example": "この字は書きにくい。(kono ji wa kakinikui.) - This character is difficult to write."
+    "example": "この字は書きにくい。(kono ji wa kakinikui.) - This character is difficult to write.",
+    "language": "JP"
   },
   {
     "id": "word085",
@@ -932,7 +1016,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Indicates something just happened, or that one does nothing but something.",
-    "example": "彼はゲームばかりしている。(kare wa geemu bakari shite iru.) - He does nothing but play games."
+    "example": "彼はゲームばかりしている。(kare wa geemu bakari shite iru.) - He does nothing but play games.",
+    "language": "JP"
   },
   {
     "id": "word086",
@@ -943,7 +1028,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Expresses expectation or certainty based on logical reasoning.",
-    "example": "彼はもう着いているはずだ。(kare wa mou tsuite iru hazu da.) - He should have arrived already."
+    "example": "彼はもう着いているはずだ。(kare wa mou tsuite iru hazu da.) - He should have arrived already.",
+    "language": "JP"
   },
   {
     "id": "word087",
@@ -954,7 +1040,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Expresses a subjective impression or appearance.",
-    "example": "雨が降るようです。(ame ga furu you desu.) - It seems like it's going to rain."
+    "example": "雨が降るようです。(ame ga furu you desu.) - It seems like it's going to rain.",
+    "language": "JP"
   },
   {
     "id": "word088",
@@ -965,7 +1052,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Expresses a more objective or widely accepted impression.",
-    "example": "彼は日本人らしい。(kare wa Nihonjin rashii.) - He seems like a Japanese person (he acts like one)."
+    "example": "彼は日本人らしい。(kare wa Nihonjin rashii.) - He seems like a Japanese person (he acts like one).",
+    "language": "JP"
   },
   {
     "id": "word089",
@@ -976,7 +1064,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Indicates two actions happening simultaneously or a concession.",
-    "example": "音楽を聞きながら勉強する。(ongaku o kikinagara benkyou suru.) - I study while listening to music."
+    "example": "音楽を聞きながら勉強する。(ongaku o kikinagara benkyou suru.) - I study while listening to music.",
+    "language": "JP"
   },
   {
     "id": "word090",
@@ -987,7 +1076,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP9",
     "when_to_say": "Expresses a contrast or unexpected outcome.",
-    "example": "彼は病気なのに、学校に行った。(kare wa byouki na noni, gakkou ni itta.) - Even though he was sick, he went to school."
+    "example": "彼は病気なのに、学校に行った。(kare wa byouki na noni, gakkou ni itta.) - Even though he was sick, he went to school.",
+    "language": "JP"
   },
   {
     "id": "word091",
@@ -998,7 +1088,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about the time.",
-    "example": "今、何時ですか？(ima, nanji desu ka?) - What time is it now?"
+    "example": "今、何時ですか？(ima, nanji desu ka?) - What time is it now?",
+    "language": "JP"
   },
   {
     "id": "word092",
@@ -1009,7 +1100,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about location.",
-    "example": "トイレはどこですか？(toire wa doko desu ka?) - Where is the restroom?"
+    "example": "トイレはどこですか？(toire wa doko desu ka?) - Where is the restroom?",
+    "language": "JP"
   },
   {
     "id": "word093",
@@ -1020,7 +1112,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about a person.",
-    "example": "あの人は誰ですか？(ano hito wa dare desu ka?) - Who is that person?"
+    "example": "あの人は誰ですか？(ano hito wa dare desu ka?) - Who is that person?",
+    "language": "JP"
   },
   {
     "id": "word094",
@@ -1031,7 +1124,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about time.",
-    "example": "誕生日はいつですか？(tanjoubi wa itsu desu ka?) - When is your birthday?"
+    "example": "誕生日はいつですか？(tanjoubi wa itsu desu ka?) - When is your birthday?",
+    "language": "JP"
   },
   {
     "id": "word095",
@@ -1042,7 +1136,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask for a reason.",
-    "example": "なぜ日本語を勉強していますか？(naze Nihongo o benkyou shite imasu ka?) - Why are you studying Japanese?"
+    "example": "なぜ日本語を勉強していますか？(naze Nihongo o benkyou shite imasu ka?) - Why are you studying Japanese?",
+    "language": "JP"
   },
   {
     "id": "word096",
@@ -1053,7 +1148,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about method or manner.",
-    "example": "どうやってここに来ましたか？(dou yatte koko ni kimashita ka?) - How did you come here?"
+    "example": "どうやってここに来ましたか？(dou yatte koko ni kimashita ka?) - How did you come here?",
+    "language": "JP"
   },
   {
     "id": "word097",
@@ -1064,7 +1160,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about quantity or age.",
-    "example": "リンゴはいくつありますか？(ringo wa ikutsu arimasu ka?) - How many apples are there?"
+    "example": "リンゴはいくつありますか？(ringo wa ikutsu arimasu ka?) - How many apples are there?",
+    "language": "JP"
   },
   {
     "id": "word098",
@@ -1075,7 +1172,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about the price of something.",
-    "example": "これはいくらですか？(kore wa ikura desu ka?) - How much is this?"
+    "example": "これはいくらですか？(kore wa ikura desu ka?) - How much is this?",
+    "language": "JP"
   },
   {
     "id": "word099",
@@ -1086,7 +1184,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about the type or nature of something.",
-    "example": "どんな音楽が好きですか？(donna ongaku ga suki desu ka?) - What kind of music do you like?"
+    "example": "どんな音楽が好きですか？(donna ongaku ga suki desu ka?) - What kind of music do you like?",
+    "language": "JP"
   },
   {
     "id": "word100",
@@ -1097,7 +1196,8 @@
     "difficulty": "difficult",
     "lesson_no": "JP10",
     "when_to_say": "Used to ask about a choice between two or a polite 'where'.",
-    "example": "コーヒーと紅茶、どちらがいいですか？(koohii to koucha, dochira ga ii desu ka?) - Which would you prefer, coffee or tea?"
+    "example": "コーヒーと紅茶、どちらがいいですか？(koohii to koucha, dochira ga ii desu ka?) - Which would you prefer, coffee or tea?",
+    "language": "JP"
   },
   {
     "id": "word101",
@@ -1108,7 +1208,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Standard greeting in Chinese.",
-    "example": "你好，很高兴认识你！ (nǐ hǎo, hěn gāoxìng rènshi nǐ!) - Hello, nice to meet you!"
+    "example": "你好，很高兴认识你！ (nǐ hǎo, hěn gāoxìng rènshi nǐ!) - Hello, nice to meet you!",
+    "language": "CN"
   },
   {
     "id": "word102",
@@ -1119,7 +1220,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Used to express gratitude.",
-    "example": "谢谢你的帮助！ (xièxie nǐ de bāngzhù!) - Thank you for your help!"
+    "example": "谢谢你的帮助！ (xièxie nǐ de bāngzhù!) - Thank you for your help!",
+    "language": "CN"
   },
   {
     "id": "word103",
@@ -1130,7 +1232,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Response to 'thank you'.",
-    "example": "不客气，这是我应该做的。(bù kèqi, zhè shì wǒ yīnggāi zuò de.) - You're welcome, it's my pleasure."
+    "example": "不客气，这是我应该做的。(bù kèqi, zhè shì wǒ yīnggāi zuò de.) - You're welcome, it's my pleasure.",
+    "language": "CN"
   },
   {
     "id": "word104",
@@ -1141,7 +1244,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Used to apologize.",
-    "example": "对不起，我迟到了。(duìbuqǐ, wǒ chídào le.) - I'm sorry, I'm late."
+    "example": "对不起，我迟到了。(duìbuqǐ, wǒ chídào le.) - I'm sorry, I'm late.",
+    "language": "CN"
   },
   {
     "id": "word105",
@@ -1152,7 +1256,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Response to an apology or to indicate something is not important.",
-    "example": "没关系，下次注意就好了。(méi guānxi, xià cì zhùyì jiù hǎo le.) - It's okay, just be careful next time."
+    "example": "没关系，下次注意就好了。(méi guānxi, xià cì zhùyì jiù hǎo le.) - It's okay, just be careful next time.",
+    "language": "CN"
   },
   {
     "id": "word106",
@@ -1163,7 +1268,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Standard farewell.",
-    "example": "再见，明天见！ (zàijiàn, míngtiān jiàn!) - Goodbye, see you tomorrow!"
+    "example": "再见，明天见！ (zàijiàn, míngtiān jiàn!) - Goodbye, see you tomorrow!",
+    "language": "CN"
   },
   {
     "id": "word107",
@@ -1174,7 +1280,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Used as an affirmative response or as the verb 'to be'.",
-    "example": "是的，我是学生。(shì de, wǒ shì xuéshēng.) - Yes, I am a student."
+    "example": "是的，我是学生。(shì de, wǒ shì xuéshēng.) - Yes, I am a student.",
+    "language": "CN"
   },
   {
     "id": "word108",
@@ -1185,7 +1292,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Used to negate verbs or adjectives.",
-    "example": "我不是老师。(wǒ bú shì lǎoshī.) - I am not a teacher."
+    "example": "我不是老师。(wǒ bú shì lǎoshī.) - I am not a teacher.",
+    "language": "CN"
   },
   {
     "id": "word109",
@@ -1196,7 +1304,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Used to make a polite request.",
-    "example": "请坐。(qǐng zuò.) - Please sit down."
+    "example": "请坐。(qǐng zuò.) - Please sit down.",
+    "language": "CN"
   },
   {
     "id": "word110",
@@ -1207,7 +1316,8 @@
     "difficulty": "easy",
     "lesson_no": "CN1",
     "when_to_say": "Used for consuming food.",
-    "example": "我想吃面条。(wǒ xiǎng chī miàntiáo.) - I want to eat noodles."
+    "example": "我想吃面条。(wǒ xiǎng chī miàntiáo.) - I want to eat noodles.",
+    "language": "CN"
   },
   {
     "id": "word111",
@@ -1218,7 +1328,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for consuming beverages.",
-    "example": "你喜欢喝茶吗？(nǐ xǐhuān hē chá ma?) - Do you like to drink tea?"
+    "example": "你喜欢喝茶吗？(nǐ xǐhuān hē chá ma?) - Do you like to drink tea?",
+    "language": "CN"
   },
   {
     "id": "word112",
@@ -1229,7 +1340,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for movement to a location.",
-    "example": "我们去北京。(wǒmen qù Běijīng.) - We go to Beijing."
+    "example": "我们去北京。(wǒmen qù Běijīng.) - We go to Beijing.",
+    "language": "CN"
   },
   {
     "id": "word113",
@@ -1240,7 +1352,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for movement towards the speaker.",
-    "example": "你什么时候来？(nǐ shénme shíhou lái?) - When are you coming?"
+    "example": "你什么时候来？(nǐ shénme shíhou lái?) - When are you coming?",
+    "language": "CN"
   },
   {
     "id": "word114",
@@ -1251,7 +1364,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for visual perception.",
-    "example": "我喜欢看电影。(wǒ xǐhuān kàn diànyǐng.) - I like watching movies."
+    "example": "我喜欢看电影。(wǒ xǐhuān kàn diànyǐng.) - I like watching movies.",
+    "language": "CN"
   },
   {
     "id": "word115",
@@ -1262,7 +1376,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for auditory perception.",
-    "example": "我喜欢听音乐。(wǒ xǐhuān tīng yīnyuè.) - I like listening to music."
+    "example": "我喜欢听音乐。(wǒ xǐhuān tīng yīnyuè.) - I like listening to music.",
+    "language": "CN"
   },
   {
     "id": "word116",
@@ -1273,7 +1388,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for verbal expression.",
-    "example": "你会说汉语吗？(nǐ huì shuō Hànyǔ ma?) - Can you speak Chinese?"
+    "example": "你会说汉语吗？(nǐ huì shuō Hànyǔ ma?) - Can you speak Chinese?",
+    "language": "CN"
   },
   {
     "id": "word117",
@@ -1284,7 +1400,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for comprehending written material.",
-    "example": "我喜欢读书。(wǒ xǐhuān dú shū.) - I like reading books."
+    "example": "我喜欢读书。(wǒ xǐhuān dú shū.) - I like reading books.",
+    "language": "CN"
   },
   {
     "id": "word118",
@@ -1294,8 +1411,9 @@
     "part_of_speech": "verb",
     "difficulty": "easy",
     "lesson_no": "CN2",
-    "when_to_say": "Used for putting words on paper or screen.",
-    "example": "请写下你的名字。(qǐng xiě xià nǐ de míngzì.) - Please write down your name."
+    "when_to_say": "Used for producing written content.",
+    "example": "请写下你的名字。(qǐng xiě xià nǐ de míngzì.) - Please write down your name.",
+    "language": "CN"
   },
   {
     "id": "word119",
@@ -1306,7 +1424,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for acquiring something in exchange for money.",
-    "example": "我想买一件新衣服。(wǒ xiǎng mǎi yī jiàn xīn yīfu.) - I want to buy a new piece of clothing."
+    "example": "我想买一件新衣服。(wǒ xiǎng mǎi yī jiàn xīn yīfu.) - I want to buy a new piece of clothing.",
+    "language": "CN"
   },
   {
     "id": "word120",
@@ -1317,7 +1436,8 @@
     "difficulty": "easy",
     "lesson_no": "CN2",
     "when_to_say": "Used for giving something in exchange for money.",
-    "example": "他们在卖什么？(tāmen zài mài shénme?) - What are they selling?"
+    "example": "他们在卖什么？(tāmen zài mài shénme?) - What are they selling?",
+    "language": "CN"
   },
   {
     "id": "word121",
@@ -1328,7 +1448,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to someone who studies.",
-    "example": "他是一个好学生。(tā shì yī ge hǎo xuéshēng.) - He is a good student."
+    "example": "他是一个好学生。(tā shì yī ge hǎo xuéshēng.) - He is a good student.",
+    "language": "CN"
   },
   {
     "id": "word122",
@@ -1339,7 +1460,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a teacher.",
-    "example": "我的老师很友好。(wǒ de lǎoshī hěn yǒuhǎo.) - My teacher is very friendly."
+    "example": "我的老师很友好。(wǒ de lǎoshī hěn yǒuhǎo.) - My teacher is very friendly.",
+    "language": "CN"
   },
   {
     "id": "word123",
@@ -1350,7 +1472,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a medical practitioner.",
-    "example": "她想成为一名医生。(tā xiǎng chéngwéi yī míng yīshēng.) - She wants to become a doctor."
+    "example": "她想成为一名医生。(tā xiǎng chéngwéi yī míng yīshēng.) - She wants to become a doctor.",
+    "language": "CN"
   },
   {
     "id": "word124",
@@ -1361,7 +1484,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to an acquaintance.",
-    "example": "我有很多朋友。(wǒ yǒu hěn duō péngyou.) - I have many friends."
+    "example": "我有很多朋友。(wǒ yǒu hěn duō péngyou.) - I have many friends.",
+    "language": "CN"
   },
   {
     "id": "word125",
@@ -1372,7 +1496,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a written work.",
-    "example": "这本书很有趣。(zhè běn shū hěn yǒuqù.) - This book is very interesting."
+    "example": "这本书很有趣。(zhè běn shū hěn yǒuqù.) - This book is very interesting.",
+    "language": "CN"
   },
   {
     "id": "word126",
@@ -1383,7 +1508,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a writing tool.",
-    "example": "请给我一支笔。(qǐng gěi wǒ yī zhī bǐ.) - Please give me a pen."
+    "example": "请给我一支笔。(qǐng gěi wǒ yī zhī bǐ.) - Please give me a pen.",
+    "language": "CN"
   },
   {
     "id": "word127",
@@ -1394,7 +1520,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a piece of furniture.",
-    "example": "桌子上有一本书。(zhuōzi shàng yǒu yī běn shū.) - There is a book on the table."
+    "example": "桌子上有一本书。(zhuōzi shàng yǒu yī běn shū.) - There is a book on the table.",
+    "language": "CN"
   },
   {
     "id": "word128",
@@ -1405,7 +1532,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a seat.",
-    "example": "请坐到椅子上。(qǐng zuò dào yǐzi shàng.) - Please sit on the chair."
+    "example": "请坐到椅子上。(qǐng zuò dào yǐzi shàng.) - Please sit on the chair.",
+    "language": "CN"
   },
   {
     "id": "word129",
@@ -1416,7 +1544,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a container.",
-    "example": "我的包很重。(wǒ de bāo hěn zhòng.) - My bag is heavy."
+    "example": "我的包很重。(wǒ de bāo hěn zhòng.) - My bag is heavy.",
+    "language": "CN"
   },
   {
     "id": "word130",
@@ -1427,7 +1556,8 @@
     "difficulty": "easy",
     "lesson_no": "CN3",
     "when_to_say": "Used to refer to a cell phone.",
-    "example": "我新买了一个手机。(wǒ xīn mǎi le yī ge shǒujī.) - I bought a new mobile phone."
+    "example": "我新买了一个手机。(wǒ xīn mǎi le yī ge shǒujī.) - I bought a new mobile phone.",
+    "language": "CN"
   },
   {
     "id": "word131",
@@ -1438,7 +1568,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Refers to the current day.",
-    "example": "今天天气很好。(jīntiān tiānqì hěn hǎo.) - The weather is good today."
+    "example": "今天天气很好。(jīntiān tiānqì hěn hǎo.) - The weather is good today.",
+    "language": "CN"
   },
   {
     "id": "word132",
@@ -1449,7 +1580,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Refers to the day after today.",
-    "example": "明天我们去哪里？(míngtiān wǒmen qù nǎlǐ?) - Where are we going tomorrow?"
+    "example": "明天我们去哪里？(míngtiān wǒmen qù nǎlǐ?) - Where are we going tomorrow?",
+    "language": "CN"
   },
   {
     "id": "word133",
@@ -1460,7 +1592,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Refers to the day before today.",
-    "example": "昨天我没去上班。(zuótiān wǒ méi qù shàngbān.) - I didn't go to work yesterday."
+    "example": "昨天我没去上班。(zuótiān wǒ méi qù shàngbān.) - I didn't go to work yesterday.",
+    "language": "CN"
   },
   {
     "id": "word134",
@@ -1471,7 +1604,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Used to refer to a period or point in time.",
-    "example": "你有时间吗？(nǐ yǒu shíjiān ma?) - Do you have time?"
+    "example": "你有时间吗？(nǐ yǒu shíjiān ma?) - Do you have time?",
+    "language": "CN"
   },
   {
     "id": "word135",
@@ -1482,7 +1616,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Refers to the period from dawn to noon.",
-    "example": "我早上七点起床。(wǒ zǎoshang qī diǎn qǐchuáng.) - I wake up at 7 AM."
+    "example": "我早上七点起床。(wǒ zǎoshang qī diǎn qǐchuáng.) - I wake up at 7 AM.",
+    "language": "CN"
   },
   {
     "id": "word136",
@@ -1493,7 +1628,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Refers to midday.",
-    "example": "我们中午吃饭。(wǒmen zhōngwǔ chīfàn.) - We eat lunch at noon."
+    "example": "我们中午吃饭。(wǒmen zhōngwǔ chīfàn.) - We eat lunch at noon.",
+    "language": "CN"
   },
   {
     "id": "word137",
@@ -1504,7 +1640,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Refers to the period from evening to night.",
-    "example": "我晚上看电视。(wǒ wǎnshang kàn diànshì.) - I watch TV in the evening."
+    "example": "我晚上看电视。(wǒ wǎnshang kàn diànshì.) - I watch TV in the evening.",
+    "language": "CN"
   },
   {
     "id": "word138",
@@ -1515,7 +1652,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Refers to a period of seven days.",
-    "example": "这个星期我很忙。(zhè ge xīngqī wǒ hěn máng.) - I am very busy this week."
+    "example": "这个星期我很忙。(zhè ge xīngqī wǒ hěn máng.) - I am very busy this week.",
+    "language": "CN"
   },
   {
     "id": "word139",
@@ -1526,7 +1664,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Used for calendar months or the celestial body.",
-    "example": "下个月是我的生日。(xià ge yuè shì wǒ de shēngrì.) - Next month is my birthday."
+    "example": "下个月是我的生日。(xià ge yuè shì wǒ de shēngrì.) - Next month is my birthday.",
+    "language": "CN"
   },
   {
     "id": "word140",
@@ -1537,7 +1676,8 @@
     "difficulty": "medium",
     "lesson_no": "CN4",
     "when_to_say": "Used for a period of 12 months.",
-    "example": "明年我会去中国。(míngnián wǒ huì qù Zhōngguó.) - I will go to China next year."
+    "example": "明年我会去中国。(míngnián wǒ huì qù Zhōngguó.) - I will go to China next year.",
+    "language": "CN"
   },
   {
     "id": "word141",
@@ -1548,7 +1688,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for a place where trains stop.",
-    "example": "火车站离这里很近。(huǒchēzhàn lí zhèlǐ hěn jìn.) - The train station is very close to here."
+    "example": "火车站离这里很近。(huǒchēzhàn lí zhèlǐ hěn jìn.) - The train station is very close to here.",
+    "language": "CN"
   },
   {
     "id": "word142",
@@ -1559,7 +1700,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for a medical facility.",
-    "example": "我需要去医院看医生。(wǒ xūyào qù yīyuàn kàn yīshēng.) - I need to go to the hospital to see a doctor."
+    "example": "我需要去医院看医生。(wǒ xūyào qù yīyuàn kàn yīshēng.) - I need to go to the hospital to see a doctor.",
+    "language": "CN"
   },
   {
     "id": "word143",
@@ -1570,7 +1712,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for a financial institution.",
-    "example": "银行几点关门？(yínháng jǐ diǎn guānmén?) - What time does the bank close?"
+    "example": "银行几点关门？(yínháng jǐ diǎn guānmén?) - What time does the bank close?",
+    "language": "CN"
   },
   {
     "id": "word144",
@@ -1581,7 +1724,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for sending mail.",
-    "example": "我要去邮局寄信。(wǒ yào qù yóujú jì xìn.) - I need to go to the post office to mail a letter."
+    "example": "我要去邮局寄信。(wǒ yào qù yóujú jì xìn.) - I need to go to the post office to mail a letter.",
+    "language": "CN"
   },
   {
     "id": "word145",
@@ -1592,7 +1736,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for reading or borrowing books.",
-    "example": "图书馆里很安静。(túshūguǎn lǐ hěn ānjìng.) - It's very quiet in the library."
+    "example": "图书馆里很安静。(túshūguǎn lǐ hěn ānjìng.) - It's very quiet in the library.",
+    "language": "CN"
   },
   {
     "id": "word146",
@@ -1603,7 +1748,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for buying groceries.",
-    "example": "我们去超市买菜吧。(wǒmen qù chāoshì mǎi cài ba.) - Let's go to the supermarket to buy groceries."
+    "example": "我们去超市买菜吧。(wǒmen qù chāoshì mǎi cài ba.) - Let's go to the supermarket to buy groceries.",
+    "language": "CN"
   },
   {
     "id": "word147",
@@ -1614,7 +1760,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for dining out or staying overnight.",
-    "example": "这家饭店的菜很好吃。(zhè jiā fàndiàn de cài hěn hǎochī.) - The food at this restaurant is delicious."
+    "example": "这家饭店的菜很好吃。(zhè jiā fàndiàn de cài hěn hǎochī.) - The food at this restaurant is delicious.",
+    "language": "CN"
   },
   {
     "id": "word148",
@@ -1625,7 +1772,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for outdoor recreation.",
-    "example": "周末我们去公园散步。(zhōumò wǒmen qù gōngyuán sànbù.) - We go for a walk in the park on weekends."
+    "example": "周末我们去公园散步。(zhōumò wǒmen qù gōngyuán sànbù.) - We go for a walk in the park on weekends.",
+    "language": "CN"
   },
   {
     "id": "word149",
@@ -1636,7 +1784,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for one's residence or family members.",
-    "example": "我回家了。(wǒ huí jiā le.) - I'm home."
+    "example": "我回家了。(wǒ huí jiā le.) - I'm home.",
+    "language": "CN"
   },
   {
     "id": "word150",
@@ -1647,7 +1796,8 @@
     "difficulty": "medium",
     "lesson_no": "CN5",
     "when_to_say": "Used for a space within a building.",
-    "example": "我的房间很干净。(wǒ de fángjiān hěn gānjìng.) - My room is very clean."
+    "example": "我的房间很干净。(wǒ de fángjiān hěn gānjìng.) - My room is very clean.",
+    "language": "CN"
   },
   {
     "id": "word151",
@@ -1658,7 +1808,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Used in 'ba' constructions to place the object before the verb, emphasizing the result.",
-    "example": "请把门关上。(qǐng bǎ mén guānshang.) - Please close the door."
+    "example": "请把门关上。(qǐng bǎ mén guānshang.) - Please close the door.",
+    "language": "CN"
   },
   {
     "id": "word152",
@@ -1669,7 +1820,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Used to form passive voice sentences.",
-    "example": "他被狗咬了。(tā bèi gǒu yǎo le.) - He was bitten by a dog."
+    "example": "他被狗咬了。(tā bèi gǒu yǎo le.) - He was bitten by a dog.",
+    "language": "CN"
   },
   {
     "id": "word153",
@@ -1680,7 +1832,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Emphasizes an extreme case or unexpected situation.",
-    "example": "他连饭都没吃。(tā lián fàn dōu méi chī.) - He didn't even eat food."
+    "example": "他连饭都没吃。(tā lián fàn dōu méi chī.) - He didn't even eat food.",
+    "language": "CN"
   },
   {
     "id": "word154",
@@ -1691,7 +1844,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Indicates the beginning of an action or an impression.",
-    "example": "他看起来很累。(tā kàn qǐlai hěn lèi.) - He looks very tired."
+    "example": "他看起来很累。(tā kàn qǐlai hěn lèi.) - He looks very tired.",
+    "language": "CN"
   },
   {
     "id": "word155",
@@ -1702,7 +1856,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Indicates continuation of an action.",
-    "example": "请继续说下去。(qǐng jìxù shuō xiàqù.) - Please continue speaking."
+    "example": "请继续说下去。(qǐng jìxù shuō xiàqù.) - Please continue speaking.",
+    "language": "CN"
   },
   {
     "id": "word156",
@@ -1713,7 +1868,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Used to introduce an exception or additional items.",
-    "example": "除了他以外，所有人都来了。(chúle tā yǐwài, suǒyǒu rén dōu lái le.) - Besides him, everyone else came."
+    "example": "除了他以外，所有人都来了。(chúle tā yǐwài, suǒyǒu rén dōu lái le.) - Besides him, everyone else came.",
+    "language": "CN"
   },
   {
     "id": "word157",
@@ -1724,7 +1880,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Expresses that a result remains true regardless of conditions.",
-    "example": "无论多忙，我都会去。(wúlùn duō máng, wǒ dōu huì qù.) - No matter how busy I am, I will go."
+    "example": "无论多忙，我都会去。(wúlùn duō máng, wǒ dōu huì qù.) - No matter how busy I am, I will go.",
+    "language": "CN"
   },
   {
     "id": "word158",
@@ -1735,7 +1892,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Used to suggest a better alternative.",
-    "example": "与其抱怨，不如行动。(yǔqí bàoyuàn, bùrú xíngdòng.) - Rather than complaining, it's better to act."
+    "example": "与其抱怨，不如行动。(yǔqí bàoyuàn, bùrú xíngdòng.) - Rather than complaining, it's better to act.",
+    "language": "CN"
   },
   {
     "id": "word159",
@@ -1746,7 +1904,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Used to explain the reason for something.",
-    "example": "他之所以成功，是因为他很努力。(tā zhīsuǒyǐ chénggōng, shì yīnwèi tā hěn nǔlì.) - The reason why he succeeded is because he worked hard."
+    "example": "他之所以成功，是因为他很努力。(tā zhīsuǒyǐ chénggōng, shì yīnwèi tā hěn nǔlì.) - The reason why he succeeded is because he worked hard.",
+    "language": "CN"
   },
   {
     "id": "word160",
@@ -1757,7 +1916,8 @@
     "difficulty": "medium",
     "lesson_no": "CN6",
     "when_to_say": "Indicates movement towards the speaker or recovery from a state.",
-    "example": "他昏倒后很快就醒过来了。(tā hūndǎo hòu hěn kuài jiù xǐng guòlai le.) - He quickly woke up after fainting."
+    "example": "他昏倒后很快就醒过来了。(tā hūndǎo hòu hěn kuài jiù xǐng guòlai le.) - He quickly woke up after fainting.",
+    "language": "CN"
   },
   {
     "id": "word161",
@@ -1768,7 +1928,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used when someone adds unnecessary details, ruining something perfect.",
-    "example": "你的建议很好，但再改动就画蛇添足了。(nǐ de jiànyì hěn hǎo, dàn zài gǎidòng jiù huàshétiānzú le.) - Your suggestion is good, but any more changes would be drawing a snake and adding feet."
+    "example": "你的建议很好，但再改动就画蛇添足了。(nǐ de jiànyì hěn hǎo, dàn zài gǎidòng jiù huàshétiānzú le.) - Your suggestion is good, but any more changes would be drawing a snake and adding feet.",
+    "language": "CN"
   },
   {
     "id": "word162",
@@ -1779,7 +1940,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used to criticize someone who relies on luck instead of effort.",
-    "example": "他总是守株待兔，从不主动争取机会。(tā zǒngshì shǒuzhūdàitù, cóng bù zhǔdòng zhēngqǔ jīhuì.) - He always waits idly for opportunities, never actively seeking them."
+    "example": "他总是守株待兔，从不主动争取机会。(tā zǒngshì shǒuzhūdàitù, cóng bù zhǔdòng zhēngqǔ jīhuì.) - He always waits idly for opportunities, never actively seeking them.",
+    "language": "CN"
   },
   {
     "id": "word163",
@@ -1790,7 +1952,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used to describe fixing a problem after damage has occurred, implying it's better late than never.",
-    "example": "虽然损失已经造成，但亡羊补牢为时不晚。(suīrán sǔnshī yǐjīng zàochéng, dàn wángyángbǔláo wéishíbùwǎn.) - Although the loss has already occurred, it's not too late to mend the fold after the sheep are lost."
+    "example": "虽然损失已经造成，但亡羊补牢为时不晚。(suīrán sǔnshī yǐjīng zàochéng, dàn wángyángbǔláo wéishíbùwǎn.) - Although the loss has already occurred, it's not too late to mend the fold after the sheep are lost.",
+    "language": "CN"
   },
   {
     "id": "word164",
@@ -1801,7 +1964,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used when someone's statements or actions are inconsistent.",
-    "example": "他的话前后自相矛盾。(tā de huà qiánhòu zìxiāngmáodùn.) - His statements contradict each other."
+    "example": "他的话前后自相矛盾。(tā de huà qiánhòu zìxiāngmáodùn.) - His statements contradict each other.",
+    "language": "CN"
   },
   {
     "id": "word165",
@@ -1812,7 +1976,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used to describe someone who has a narrow perspective.",
-    "example": "他只知道自己村里的事，真是井底之蛙。(tā zhī zhīdào zìjǐ cūnlǐ de shì, zhēnshi jǐngdǐzhīwā.) - He only knows about things in his own village, truly a frog in a well."
+    "example": "他只知道自己村里的事，真是井底之蛙。(tā zhī zhīdào zìjǐ cūnlǐ de shì, zhēnshi jǐngdǐzhīwā.) - He only knows about things in his own village, truly a frog in a well.",
+    "language": "CN"
   },
   {
     "id": "word166",
@@ -1823,7 +1988,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used to describe someone who relies on empty promises or unrealistic plans.",
-    "example": "空谈无用，画饼充饥解决不了问题。(kōngtán wúyòng, huàbǐngchōngjī jiějué bù liǎo wèntí.) - Empty talk is useless, drawing cakes to satisfy hunger won't solve the problem."
+    "example": "空谈无用，画饼充饥解决不了问题。(kōngtán wúyòng, huàbǐngchōngjī jiějué bù liǎo wèntí.) - Empty talk is useless, drawing cakes to satisfy hunger won't solve the problem.",
+    "language": "CN"
   },
   {
     "id": "word167",
@@ -1834,7 +2000,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used to describe someone who is unqualified but fills a position.",
-    "example": "他只是滥竽充数，对工作毫无贡献。(tā zhǐshì lànyúchōngshù, duì gōngzuò háowú gòngxiàn.) - He's just there to make up the numbers, contributing nothing to the work."
+    "example": "他只是滥竽充数，对工作毫无贡献。(tā zhǐshì lànyúchōngshù, duì gōngzuò háowú gòngxiàn.) - He's just there to make up the numbers, contributing nothing to the work.",
+    "language": "CN"
   },
   {
     "id": "word168",
@@ -1845,7 +2012,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used to criticize someone who is inflexible or adheres to outdated methods.",
-    "example": "时代变了，我们不能刻舟求剑。(shídài biàn le, wǒmen bù néng kèzhōuqíujiàn.) - Times have changed, we cannot stick to old ways."
+    "example": "时代变了，我们不能刻舟求剑。(shídài biàn le, wǒmen bù néng kèzhōuqíujiàn.) - Times have changed, we cannot stick to old ways.",
+    "language": "CN"
   },
   {
     "id": "word169",
@@ -1856,7 +2024,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used when explaining something profound to someone who cannot understand or appreciate it.",
-    "example": "跟他说这些道理简直是对牛弹琴。(gēn tā shuō zhèxiē dàolǐ jiǎnzhí shì duìniútánqín.) - Explaining these principles to him is simply casting pearls before swine."
+    "example": "跟他说这些道理简直是对牛弹琴。(gēn tā shuō zhèxiē dàolǐ jiǎnzhí shì duìniútánqín.) - Explaining these principles to him is simply casting pearls before swine.",
+    "language": "CN"
   },
   {
     "id": "word170",
@@ -1867,7 +2036,8 @@
     "difficulty": "medium",
     "lesson_no": "CN7",
     "when_to_say": "Used to describe someone who uses another's power to intimidate.",
-    "example": "他仗着老板的势力狐假虎威。(tā zhàngzhe lǎobǎn de shìlì hújiǎhǔwēi.) - He bullies others by flaunting the boss's power."
+    "example": "他仗着老板的势力狐假虎威。(tā zhàngzhe lǎobǎn de shìlì hújiǎhǔwēi.) - He bullies others by flaunting the boss's power.",
+    "language": "CN"
   },
   {
     "id": "word171",
@@ -1878,7 +2048,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to express high regard for someone.",
-    "example": "我们应该尊敬老人。(wǒmen yīnggāi zūnjìng lǎorén.) - We should respect the elderly."
+    "example": "我们应该尊敬老人。(wǒmen yīnggāi zūnjìng lǎorén.) - We should respect the elderly.",
+    "language": "CN"
   },
   {
     "id": "word172",
@@ -1889,7 +2060,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Describes a person who does not boast.",
-    "example": "他是一个非常谦虚的人。(tā shì yī ge fēicháng qiānxū de rén.) - He is a very modest person."
+    "example": "他是一个非常谦虚的人。(tā shì yī ge fēicháng qiānxū de rén.) - He is a very modest person.",
+    "language": "CN"
   },
   {
     "id": "word173",
@@ -1900,7 +2072,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Describes good manners or a polite person.",
-    "example": "说话要有礼貌。(shuōhuà yào yǒu lǐmào.) - One should speak politely."
+    "example": "说话要有礼貌。(shuōhuà yào yǒu lǐmào.) - One should speak politely.",
+    "language": "CN"
   },
   {
     "id": "word174",
@@ -1911,7 +2084,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to describe politeness, sometimes implying being overly polite or formal.",
-    "example": "你太客气了。(nǐ tài kèqi le.) - You are too polite."
+    "example": "你太客气了。(nǐ tài kèqi le.) - You are too polite.",
+    "language": "CN"
   },
   {
     "id": "word175",
@@ -1922,7 +2096,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to refer to the customs, arts, social institutions, and achievements of a nation, people, or group.",
-    "example": "中国文化博大精深。(Zhōngguó wénhuà bódàjīngshēn.) - Chinese culture is broad and profound."
+    "example": "中国文化博大精深。(Zhōngguó wénhuà bódàjīngshēn.) - Chinese culture is broad and profound.",
+    "language": "CN"
   },
   {
     "id": "word176",
@@ -1933,7 +2108,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to refer to long-established customs or beliefs.",
-    "example": "春节是中国的重要传统节日。(chūnjié shì Zhōngguó de zhòngyào chuántǒng jiérì.) - Spring Festival is an important traditional Chinese holiday."
+    "example": "春节是中国的重要传统节日。(chūnjié shì Zhōngguó de zhòngyào chuántǒng jiérì.) - Spring Festival is an important traditional Chinese holiday.",
+    "language": "CN"
   },
   {
     "id": "word177",
@@ -1944,7 +2120,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to refer to a customary practice or habit.",
-    "example": "每个地方都有不同的习俗。(měi ge dìfang dōu yǒu bù tóng de xísú.) - Every place has different customs."
+    "example": "每个地方都有不同的习俗。(měi ge dìfang dōu yǒu bù tóng de xísú.) - Every place has different customs.",
+    "language": "CN"
   },
   {
     "id": "word178",
@@ -1955,7 +2132,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to refer to a person's or society's principles or standards of behavior.",
-    "example": "他们的价值观不同。(tāmen de jiàzhíguān bù tóng.) - Their values are different."
+    "example": "他们的价值观不同。(tāmen de jiàzhíguān bù tóng.) - Their values are different.",
+    "language": "CN"
   },
   {
     "id": "word179",
@@ -1966,7 +2144,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to refer to a community of people living together.",
-    "example": "我们生活在一个多元化的社会。(wǒmen shēnghuó zài yī ge duōyuánhuà de shèhuì.) - We live in a diverse society."
+    "example": "我们生活在一个多元化的社会。(wǒmen shēnghuó zài yī ge duōyuánhuà de shèhuì.) - We live in a diverse society.",
+    "language": "CN"
   },
   {
     "id": "word180",
@@ -1977,7 +2156,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN8",
     "when_to_say": "Used to describe growth or progress.",
-    "example": "经济发展很快。(jīngjì fāzhǎn hěn kuài.) - The economy is developing rapidly."
+    "example": "经济发展很快。(jīngjì fāzhǎn hěn kuài.) - The economy is developing rapidly.",
+    "language": "CN"
   },
   {
     "id": "word181",
@@ -1988,7 +2168,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to express likelihood or estimation.",
-    "example": "他大概不会来了。(tā dàgài bú huì lái le.) - He probably won't come."
+    "example": "他大概不会来了。(tā dàgài bú huì lái le.) - He probably won't come.",
+    "language": "CN"
   },
   {
     "id": "word182",
@@ -1999,7 +2180,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to express a polite concern or a reluctant guess.",
-    "example": "恐怕不行。(kǒngpà bù xíng.) - I'm afraid not."
+    "example": "恐怕不行。(kǒngpà bù xíng.) - I'm afraid not.",
+    "language": "CN"
   },
   {
     "id": "word183",
@@ -2010,7 +2192,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to express surprise or disbelief at an outcome.",
-    "example": "他竟然赢了比赛！(tā jìngrán yíng le bǐsài!) - He actually won the competition!"
+    "example": "他竟然赢了比赛！(tā jìngrán yíng le bǐsài!) - He actually won the competition!",
+    "language": "CN"
   },
   {
     "id": "word184",
@@ -2021,7 +2204,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used when something desired or expected happens after a long time.",
-    "example": "我们终于完成了任务。(wǒmen zhōngyú wánchéng le rènwu.) - We finally completed the task."
+    "example": "我们终于完成了任务。(wǒmen zhōngyú wánchéng le rènwu.) - We finally completed the task.",
+    "language": "CN"
   },
   {
     "id": "word185",
@@ -2032,7 +2216,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to refer to the original situation or intention.",
-    "example": "我本来想去，但是太忙了。(wǒ běnlái xiǎng qù, dànshì tài máng le.) - I originally wanted to go, but I was too busy."
+    "example": "我本来想去，但是太忙了。(wǒ běnlái xiǎng qù, dànshì tài máng le.) - I originally wanted to go, but I was too busy.",
+    "language": "CN"
   },
   {
     "id": "word186",
@@ -2043,7 +2228,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to emphasize a fundamental truth or reason.",
-    "example": "他毕竟是新手，犯错是难免的。(tā bìjìng shì xīnshǒu, fàncuò shì nánmiǎn de.) - After all, he's a beginner, so making mistakes is unavoidable."
+    "example": "他毕竟是新手，犯错是难免的。(tā bìjìng shì xīnshǒu, fàncuò shì nánmiǎn de.) - After all, he's a beginner, so making mistakes is unavoidable.",
+    "language": "CN"
   },
   {
     "id": "word187",
@@ -2054,7 +2240,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to highlight a specific item or aspect.",
-    "example": "我喜欢水果，尤其是苹果。(wǒ xǐhuān shuǐguǒ, yóuqí shì píngguǒ.) - I like fruit, especially apples."
+    "example": "我喜欢水果，尤其是苹果。(wǒ xǐhuān shuǐguǒ, yóuqí shì píngguǒ.) - I like fruit, especially apples.",
+    "language": "CN"
   },
   {
     "id": "word188",
@@ -2065,7 +2252,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to express an unexpected or opposite outcome.",
-    "example": "他非但没有生气，反而笑了。(tā fēidàn méiyǒu shēngqì, fǎn'ér xiào le.) - Not only did he not get angry, he laughed instead."
+    "example": "他非但没有生气，反而笑了。(tā fēidàn méiyǒu shēngqì, fǎn'ér xiào le.) - Not only did he not get angry, he laughed instead.",
+    "language": "CN"
   },
   {
     "id": "word189",
@@ -2076,7 +2264,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to express surprise or disbelief at an outcome.",
-    "example": "他竟然赢了比赛！(tā jìngrán yíng le bǐsài!) - He actually won the competition!"
+    "example": "他竟然赢了比赛！(tā jìngrán yíng le bǐsài!) - He actually won the competition!",
+    "language": "CN"
   },
   {
     "id": "word190",
@@ -2087,7 +2276,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN9",
     "when_to_say": "Used to emphasize a statement, often with exaggeration.",
-    "example": "这简直是浪费时间。(zhè jiǎnzhí shì làngfèi shíjiān.) - This is simply a waste of time."
+    "example": "这简直是浪费时间。(zhè jiǎnzhí shì làngfèi shíjiān.) - This is simply a waste of time.",
+    "language": "CN"
   },
   {
     "id": "word191",
@@ -2098,7 +2288,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about quantity.",
-    "example": "你有多少钱？(nǐ yǒu duōshao qián?) - How much money do you have?"
+    "example": "你有多少钱？(nǐ yǒu duōshao qián?) - How much money do you have?",
+    "language": "CN"
   },
   {
     "id": "word192",
@@ -2109,7 +2300,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about location.",
-    "example": "你住在哪里？(nǐ zhù zài nǎlǐ?) - Where do you live?"
+    "example": "你住在哪里？(nǐ zhù zài nǎlǐ?) - Where do you live?",
+    "language": "CN"
   },
   {
     "id": "word193",
@@ -2120,7 +2312,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about a person.",
-    "example": "他是谁？(tā shì shéi?) - Who is he?"
+    "example": "他是谁？(tā shì shéi?) - Who is he?",
+    "language": "CN"
   },
   {
     "id": "word194",
@@ -2131,7 +2324,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about something.",
-    "example": "你叫什么名字？(nǐ jiào shénme míngzi?) - What is your name?"
+    "example": "你叫什么名字？(nǐ jiào shénme míngzi?) - What is your name?",
+    "language": "CN"
   },
   {
     "id": "word195",
@@ -2142,7 +2336,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask for a reason.",
-    "example": "你为什么不开心？(nǐ wèishénme bù kāixīn?) - Why are you unhappy?"
+    "example": "你为什么不开心？(nǐ wèishénme bù kāixīn?) - Why are you unhappy?",
+    "language": "CN"
   },
   {
     "id": "word196",
@@ -2153,7 +2348,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about method or reason.",
-    "example": "这个字怎么写？(zhè ge zì zěnme xiě?) - How do you write this character?"
+    "example": "这个字怎么写？(zhè ge zì zěnme xiě?) - How do you write this character?",
+    "language": "CN"
   },
   {
     "id": "word197",
@@ -2164,7 +2360,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask for opinion or suggestion.",
-    "example": "这个电影怎么样？(zhè ge diànyǐng zěnmeyàng?) - How is this movie?"
+    "example": "这个电影怎么样？(zhè ge diànyǐng zěnmeyàng?) - How is this movie?",
+    "language": "CN"
   },
   {
     "id": "word198",
@@ -2175,7 +2372,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about a specific choice from a group.",
-    "example": "你是哪国人？(nǐ shì nǎ guó rén?) - Which country are you from?"
+    "example": "你是哪国人？(nǐ shì nǎ guó rén?) - Which country are you from?",
+    "language": "CN"
   },
   {
     "id": "word199",
@@ -2186,7 +2384,8 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about a small quantity (usually under 10).",
-    "example": "你家有几口人？(nǐ jiā yǒu jǐ kǒu rén?) - How many people are in your family?"
+    "example": "你家有几口人？(nǐ jiā yǒu jǐ kǒu rén?) - How many people are in your family?",
+    "language": "CN"
   },
   {
     "id": "word200",
@@ -2197,6 +2396,7 @@
     "difficulty": "difficult",
     "lesson_no": "CN10",
     "when_to_say": "Used to ask about a specific time.",
-    "example": "你什么时候回家？(nǐ shénme shíhou huí jiā?) - When are you going home?"
+    "example": "你什么时候回家？(nǐ shénme shíhou huí jiā?) - When are you going home?",
+    "language": "CN"
   }
 ]
