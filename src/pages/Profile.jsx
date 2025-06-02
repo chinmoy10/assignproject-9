@@ -1,6 +1,7 @@
-import { useContext } from "react";
+import { useContext, useEffect } from "react";
 import { AuthContext } from "../provider/AuthProvider";
 import { Link } from "react-router-dom";
+
 
 const Profile = () => {
   const { user } = useContext(AuthContext);
@@ -22,12 +23,12 @@ const Profile = () => {
         <div className="w-10/12 mx-auto mt-10">
           <section className="flex justify-center">
             {user && (
-              <div className="card bg-cyan-950/50 w-96">
+              <div className="card shadow-sm bg-cyan-950/50 w-96">
                 <figure className="pt-10">
                   <img
                     src={user?.photoURL}
                     alt="Shoes"
-                    className="w-24 h-auto object-cover rounded-full"
+                    className="w-24 h-24 object-cover rounded-full"
                   />
                 </figure>
                 <div className="card-body items-center text-center">

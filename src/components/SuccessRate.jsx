@@ -5,7 +5,7 @@ import CountUp from 'react-countup';
 const SuccessRate = () => {
   return (
     <div>
-      <section  className="bg-[#042E45] py-12 px-6 md:px-20 text-white">
+      <section  className="bg-[#042E45] py-12 px-6 md:px-20 text-white my-5">
         <div className="max-w-full mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-10">
             Success Rates

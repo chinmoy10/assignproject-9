@@ -3,7 +3,6 @@ import MainLayout from "../Layouts/MainLayout";
 import Home from "../pages/Home";
 import Learning from "../pages/Learning";
 import Tutorials from "../pages/Tutorials";
-import About from "../pages/About";
 import Profile from "../pages/Profile";
 import Lessons from "../components/Lessons";
 import SingleLesson from "../pages/SingleLesson";
@@ -12,6 +11,7 @@ import Login from "../pages/Login";
 import Register from "../pages/Register";
 import PrivateRoute from "./privateRoute";
 import UpdateProfile from "../pages/UpdateProfile";
+import ErrorPage from "../pages/ErrorPage";
 
 const router = createBrowserRouter([
   {
@@ -56,10 +56,6 @@ const router = createBrowserRouter([
         loader: () => fetch("../embeddedVideo.json"),
       },
       {
-        path: "/about",
-        element: <About></About>,
-      },
-      {
         path: "/profile",
         element: (
           <PrivateRoute>
@@ -93,7 +89,7 @@ const router = createBrowserRouter([
   },
   {
     path: "*",
-    element: <h1>Error Page</h1>,
+    element: <ErrorPage></ErrorPage>,
   },
 ]);
 

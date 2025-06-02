@@ -6,7 +6,7 @@ const Tutorials = () => {
   const navigate = useNavigate();
   return (
     <>
-      <div className="space-y-10">
+      <div className="space-y-10 mb-10">
         <section className="banner">
           <div className="hero min-h-full bg-[#042E45]/75">
             <div className="hero-content text-center">

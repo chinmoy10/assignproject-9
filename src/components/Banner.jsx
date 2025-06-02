@@ -24,7 +24,7 @@ const Banner = () => {
                 </h1>
                 <p className="text-white font-extralight text-lg">
                   Creative concept of foreign language education
-                  <br />
+                  <br className="hidden md:block" />
                   Japanese language learning.
                 </p>
                 <button onClick={()=> navigate('/learning/JP')} className="btn text-red-500 bg-[#042E45] text-base text-light shadow-none border-none">
@@ -62,7 +62,7 @@ const Banner = () => {
                 </h1>
                 <p className="text-white font-extralight text-lg">
                   Creative concept of foreign language education
-                  <br />
+                  <br className="hidden md:block" />
                   Chinese language learning.
                 </p>
                 <button onClick={()=> navigate('/learning/CN')} className="btn text-red-500 bg-[#042E45] text-base text-light shadow-none border-none">

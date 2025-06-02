@@ -5,6 +5,6 @@
 @tailwind utilities;
 
 
-body{
+.font-DM{
     font-family: "DM Sans", sans-serif;
 }

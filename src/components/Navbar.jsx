@@ -49,20 +49,6 @@ const Navbar = () => {
           Tutorials
         </NavLink>
       </li>
-      <li>
-        <NavLink
-          to={`/about`}
-          className={({ isActive }) =>
-            `font-bold ${
-              isActive
-                ? "border-b-2 border-[#042E45] text-[#042E45] hover:bg-inherit shadow-none"
-                : "text-[#042e4581] hover:bg-inherit"
-            }`
-          }
-        >
-          About Us
-        </NavLink>
-      </li>
       {user && (
         <>
           <li>
