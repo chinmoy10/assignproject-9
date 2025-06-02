@@ -11,6 +11,7 @@ import AuthLayout from "../layouts/AuthLayout";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
 import PrivateRoute from "./privateRoute";
+import UpdateProfile from "../pages/UpdateProfile";
 
 const router = createBrowserRouter([
   {
@@ -63,6 +64,14 @@ const router = createBrowserRouter([
         element: (
           <PrivateRoute>
             <Profile></Profile>
+          </PrivateRoute>
+        ),
+      },
+      {
+        path: "/updateProfile",
+        element: (
+          <PrivateRoute>
+            <UpdateProfile></UpdateProfile>
           </PrivateRoute>
         ),
       },

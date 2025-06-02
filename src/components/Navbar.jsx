@@ -133,6 +133,7 @@ const Navbar = () => {
                   <h1 className="text-[#042E45] font-2xl">
                     {user?.displayName}
                   </h1>
+
                   <img
                     className="w-10 h-10 object-cover border-2 border-cyan-950 rounded-full"
                     src={user?.photoURL}
