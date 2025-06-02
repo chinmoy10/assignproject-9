@@ -4,6 +4,7 @@ import { AuthContext } from "../provider/AuthProvider";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
 
 const Register = () => {
+  document.title = "Register | Vocablyst";
   const { createNewUser, setUser, updateUserProfile, googleSignIn } =
     useContext(AuthContext);
   const [showPassword, setShowPassword] = useState(false);
@@ -31,7 +32,7 @@ const Register = () => {
       return;
     }
 
-    // console.log({ name, photo, email, password });
+
 
     setError("");
 

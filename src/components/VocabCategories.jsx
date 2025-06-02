@@ -10,7 +10,7 @@ const VocabCategories = () => {
       .then((data) => setCategories(data));
   }, []);
 
-//   console.log(categories);
+
 
   return (
     <div>

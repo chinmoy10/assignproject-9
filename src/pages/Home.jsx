@@ -11,6 +11,7 @@ import WelcomeMSG from "../components/WelcomeMSG";
 import { AuthContext } from "../provider/AuthProvider";
 
 const Home = () => {
+  document.title = "Home | Vocablyst";
   const { user } = useContext(AuthContext);
 
   useEffect(() => {

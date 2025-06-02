@@ -3,6 +3,7 @@ import { AuthContext } from "../provider/AuthProvider";
 import { useNavigate } from "react-router-dom";
 
 const UpdateProfile = () => {
+    document.title = `Update Profile | Vocablyst`;
   const { updateUserProfile } = useContext(AuthContext);
     const navigate = useNavigate()
   const handleSubmit = (e) => {
@@ -12,7 +13,7 @@ const UpdateProfile = () => {
     const name = form.name.value;
     const photo = form.photo.value;
 
-    console.log({ name, photo });
+ 
 
     updateUserProfile({ displayName: name, photoURL: photo })
       .then(() => {

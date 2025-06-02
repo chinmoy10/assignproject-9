@@ -2,6 +2,7 @@ import { FaArrowRight } from "react-icons/fa";
 import { useLoaderData, useNavigate } from "react-router-dom";
 
 const Tutorials = () => {
+  document.title = "Tutorials | Vocablyst";
   const videos = useLoaderData();
   const navigate = useNavigate();
   return (

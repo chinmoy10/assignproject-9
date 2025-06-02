@@ -3,9 +3,7 @@ import { NavLink, useLoaderData, useParams } from "react-router-dom";
 
 const Lessons = () => {
   const { category } = useParams();
-//   console.log(category);
   const lessonData = useLoaderData();
-//   console.log(lessonData);
 
   const [lessons, setLessons] = useState([]);
 
@@ -20,7 +18,6 @@ const Lessons = () => {
     }
   }, [lessonData, category]);
 
-//   console.log(lessons);
 
   return (
     <>

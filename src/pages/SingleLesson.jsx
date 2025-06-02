@@ -6,10 +6,10 @@ import { FaArrowRight } from "react-icons/fa";
 const SingleLesson = () => {
   const navigate = useNavigate();
   const wordData = useLoaderData();
-  //   console.log(wordData);
+  
   const { lesson_no } = useParams();
-  // console.log(lesson_no);
-
+  
+  document.title = `${lesson_no} | Vocablyst`;
   const [lessonWords, setLessonWords] = useState([]);
 
   useEffect(() => {
@@ -21,8 +21,7 @@ const SingleLesson = () => {
     }
   }, [wordData, lesson_no]);
 
-  console.log(lessonWords);
-
+ 
   return (
     <div className="mb-10">
       <section className="banner">

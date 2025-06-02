@@ -5,6 +5,7 @@ import { FaEye } from "react-icons/fa";
 import { FaEyeSlash } from "react-icons/fa";
 
 const Login = () => {
+  document.title = "Login | Vocablyst";
   const { signInUser, setUser, resetPassword, googleSignIn} =
     useContext(AuthContext);
 
@@ -22,7 +23,7 @@ const Login = () => {
     const email = form.email.value;
     const password = form.password.value;
 
-    // console.log({ email, password });
+
 
     signInUser(email, password)
       .then((result) => {
@@ -36,7 +37,7 @@ const Login = () => {
   };
 
   const handleForgetPassword = () => {
-    // console.log("get me email add", emailRef.current.value);
+    
     const email = emailRef.current.value;
     if (!email) {
       console.log("give me a valid email add");

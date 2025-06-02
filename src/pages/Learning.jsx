@@ -3,6 +3,7 @@ import VocabCategories from "../components/VocabCategories";
 import YTVideo from "../components/YTVideo";
 
 const Learning = () => {
+  document.title = "Learning | Vocablyst";
   return (
     <>
       <div>

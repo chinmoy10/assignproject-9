@@ -1,9 +1,10 @@
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import { AuthContext } from "../provider/AuthProvider";
 import { Link } from "react-router-dom";
 
 
 const Profile = () => {
+    document.title = "Profile | Vocablyst";
   const { user } = useContext(AuthContext);
 
   return (
