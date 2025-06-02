@@ -1,10 +1,11 @@
 import { FaUser, FaStar, FaChartBar, FaBook } from "react-icons/fa";
 import CountUp from 'react-countup';
 
+
 const SuccessRate = () => {
   return (
     <div>
-      <section className="bg-[#042E45] py-12 px-6 md:px-20 text-white">
+      <section  className="bg-[#042E45] py-12 px-6 md:px-20 text-white">
         <div className="max-w-full mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-10">
             Success Rates
@@ -15,7 +16,7 @@ const SuccessRate = () => {
                 <FaUser size={50} className="text-4xl text-teal-200" />
               </div>
               <div>
-                <p className="text-2xl font-semibold"> <CountUp end={12345} duration={2} /> </p>
+                <p className="text-2xl font-semibold"> <CountUp end={1000} duration={2} />+ </p>
                 <p className="text-lg mt-1">Learners</p>
               </div>
             </div>
@@ -33,7 +34,7 @@ const SuccessRate = () => {
                 <FaChartBar size={50} className="text-4xl text-orange-300" />
               </div>
               <div>
-                <p className="text-2xl font-semibold"> <CountUp end={5000} duration={2} /> </p>
+                <p className="text-2xl font-semibold"> <CountUp end={200} duration={2} /> </p>
                 <p className="text-lg mt-1">Words Learned</p>
               </div>
             </div>
@@ -42,7 +43,7 @@ const SuccessRate = () => {
                 <FaBook size={50} className="text-4xl text-cyan-400" />
               </div>
               <div>
-                <p className="text-2xl font-semibold"> <CountUp end={100} duration={2} /> </p>
+                <p className="text-2xl font-semibold"> <CountUp end={20} duration={2} /> </p>
                 <p className="text-lg mt-1">Lessons</p>
               </div>
             </div>

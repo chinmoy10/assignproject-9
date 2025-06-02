@@ -10,6 +10,7 @@ import SingleLesson from "../pages/SingleLesson";
 import AuthLayout from "../layouts/AuthLayout";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
+import PrivateRoute from "./privateRoute";
 
 const router = createBrowserRouter([
   {
@@ -37,12 +38,20 @@ const router = createBrowserRouter([
       },
       {
         path: "/lesson/:lesson_no",
-        element: <SingleLesson></SingleLesson>,
+        element: (
+          <PrivateRoute>
+            <SingleLesson></SingleLesson>
+          </PrivateRoute>
+        ),
         loader: () => fetch("../allWordsData.json"),
       },
       {
         path: "/tutorials",
-        element: <Tutorials></Tutorials>,
+        element: (
+          <PrivateRoute>
+            <Tutorials></Tutorials>
+          </PrivateRoute>
+        ),
         loader: () => fetch("../embeddedVideo.json"),
       },
       {
@@ -51,7 +60,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/profile",
-        element: <Profile></Profile>,
+        element: (
+          <PrivateRoute>
+            <Profile></Profile>
+          </PrivateRoute>
+        ),
       },
     ],
   },

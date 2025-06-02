@@ -1,8 +1,7 @@
-import { Outlet } from "react-router-dom";
 import AboutBanner from "../components/AboutBanner";
 import Banner from "../components/Banner";
 import SuccessRate from "../components/SuccessRate";
-import VocabCategories from "../components/VocabCategories";
+import 'animate.css';
 
 const Home = () => {
   return (
